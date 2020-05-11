@@ -5,12 +5,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/StephenGrider/Lyrical-GraphQL"
+    "url": "https://github.com/Lawangin/SongLyrics-GraphQL"
   },
   "scripts": {
     "dev": "nodemon index.js --ignore client"
   },
-  "author": "",
+  "author": "Lawangin",
   "license": "ISC",
   "dependencies": {
     "apollo-client": "^0.8.1",
